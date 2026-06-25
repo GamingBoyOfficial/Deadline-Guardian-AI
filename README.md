@@ -115,4 +115,4 @@ That is the difference between a task manager and a rescue engine.
 
 ---
 
-Built for the Google AI Studio Hackathon.
+Built for the Vibe2Ship Hackathon.
