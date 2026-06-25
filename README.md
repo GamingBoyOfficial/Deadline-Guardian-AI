@@ -115,4 +115,4 @@ That is the difference between a task manager and a rescue engine.
 
 ---
 
-Built for the Vibe2Ship Hackathon.
+Built for the Vibe2Ship(2026) Hackathon.
